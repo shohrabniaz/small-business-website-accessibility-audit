@@ -62,3 +62,14 @@ Domain engine kind: `product`.
 
 **Author:** Md Shohrab Hossen Niaz  
 **GitHub:** `small-business-website-accessibility-audit`
+
+## Local web console
+
+Product packs include a zero-dependency local UI:
+
+```powershell
+python -m src.webapp
+```
+
+Then open `http://127.0.0.1:8765`.
+
